@@ -14,13 +14,13 @@ It’s all about ones and zeros, meaning it has no physical form such as a coin.
 Based on mathematics and cryptography. Which means it can’t be counterfeit - math doesn’t lie.
 Ограниченное количество
 limited amount
-
+Количество всех биткойнов ограничено на 21-н миллион
 There is a limit of roughly 21 million bitcoins to be ever issued.
-
+Это не позволяет кому-либо производить больше биткойнов безрассудно, что сохраняет ценность валюты - она редка
 It doesn’t allow anyone to print more bitcoins recklessly, which preserves the currency value - it’s scarce.
-
+Учет собственности
 ownership records
-
+Владение биткойнами - это на самом деле запись на блокчейне (огромная децентрализованная база данных), которая подтверждает что эти биткойны были переданы тебе
 Bitcoin ownership is actually a record on the Blockchain - this big decentralized ledger - saying those bitcoins were transferred to you.
 
 mining
