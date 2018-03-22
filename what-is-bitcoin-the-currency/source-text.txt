@@ -1,17 +1,18 @@
-WHAT IS BITCOIN? - The Currency
+ЧТО ТАКОЕ БИТКОЙН - Деньги
 
 bitcoindesigned.com
 
-breaking in pieces
+по частям
 
-Digital Currency
+Цифровая валюта
 
+Все состоит из единиц и нулей, то есть не в физическом образе как монета
 It’s all about ones and zeros, meaning it has no physical form such as a coin.
+Криптовалюта
 
-Cryptocurrency
-
+Основано на математике и криптографии. Что значит, это невозможно подделать - математика не врёт.
 Based on mathematics and cryptography. Which means it can’t be counterfeit - math doesn’t lie.
-
+Ограниченное количество
 limited amount
 
 There is a limit of roughly 21 million bitcoins to be ever issued.
