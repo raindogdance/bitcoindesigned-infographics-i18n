@@ -22,31 +22,31 @@ It doesn’t allow anyone to print more bitcoins recklessly, which preserves the
 ownership records
 Владение биткойнами - это на самом деле запись на блокчейне (огромная децентрализованная база данных), которая подтверждает что эти биткойны были переданы тебе
 Bitcoin ownership is actually a record on the Blockchain - this big decentralized ledger - saying those bitcoins were transferred to you.
-
+Майнинг
 mining
-
+Это вид математической задачи, для которой требуется высокая вычислительная мощность. Это используется для записи транзакций, и те кто это делает, получают сборы за транзакции и новые биткойны. Так издается эта валюта
 It’s a type of math problem that needs a lot of processing power. It’s used for writing transactions and those who do it are rewarded with transaction fees and new bitcoins, which is how the currency is issued.
-
+делимость
 divisibility
-
+Самая меньшая единица Биткойна - Сатоши; он представляет собой стомиллионную часть одного биткойна. Но, при необходимости, эта часть может стать еще меньше.
 The smallest unit of Bitcoin is a Satoshi; it represents one hundred millionth of a bitcoin. But, if needed, this part can become even smaller.
-
+особенности
 the features
-
+или... почему все так сходят с ума об этом
 or... Why everyone is so crazy about it
-
+критические (нарушь эти и Биткойн больше не будет самим собой)
 Critical (break these and Bitcoin will never be the same)
-
+Децентрализация 
 Decentralized
-
+Центральный банк не может заморозить ваши счета, или реализовать плохо продуманные политики, которые обесценивают ваши деньги.
 No central bank can freeze your accounts ou implement poorly conceived policies that devalue your currency.
-
+Без перегородок 
 No Red-Tape
-
+Любой человек может использовать биткойн, без вопросов, без документ и без сборов за хранение.
 Anyone can use bitcoin, no questions, no documents and no custody fees.
-
+Довольно анонимно
 Pretty Anonymous
-
+Твое имя не связано с твоими транзакциями, делая его намного более приватным и безопасным, чем обычные банковские переводы и платежи кредитной карточкой.
 Your name isn’t linked to your transactions, making it a lot more private and safe than regular bank operations and credit card payments.
 
 Non-repudiable
